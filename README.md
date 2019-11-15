@@ -1,6 +1,6 @@
-# PyCon Ireland 2019 🇮🇪
+# PyData Cambridge 2019 🎓
 
-_Sunday 13 October, 10.00 Goldsmiths 1 and 2._
+_Saturday 16 November 2019._
 
 ## Dash: INTERACTIVE DATA VISUALIZATION WEB APPS WITH NO JAVASCRIPT
 
