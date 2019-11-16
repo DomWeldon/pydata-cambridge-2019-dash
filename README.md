@@ -6,7 +6,7 @@ _Saturday 16 November 2019._
 
 **Please note the examples in this repository require Python >= 3.6 - official python 3.5 support is being withdrawn in January 2020...**
 
-The slides relating to this talk [are available here](http://bit.ly/2MB6u6W).
+The slides relating to this talk [are available here](https://docs.google.com/presentation/d/1nzNnkWZ-6L20QM3ZLsuooHblV2K78Rdp4Gdl94s74eE/edit?usp=sharing).
 
 ### Example Applications
 
